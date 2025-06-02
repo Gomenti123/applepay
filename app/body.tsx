@@ -33,7 +33,7 @@ const Body = () => {
             </div>
             </div>
            
-            <div className=' col-span-4 rounded-full bo border-[3px] border-[#1F1F21] flex justify-between w-full items-center px-5'>
+            <div className=' col-span-4 rounded-full bo border-[1px] border-[#1F1F21] flex justify-between w-full items-center px-5'>
                 <div className='text-neutral-500 font-medium'>iMessage</div>
                 <div className='text-white'>
                     <TiMicrophone className='text-[#4D4D4D] text-[25px]' />
