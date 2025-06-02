@@ -5,7 +5,7 @@ import Footer from './footer'
 
 const page = () => {
   return (
-    <div className='flex w-full justify-center p-4 h-screen'>
+    <div className='flex w-full justify-center p-4 h-[100vh]'>
       <div className='border w-full h-full '>
      <Header />
      <Body />

@@ -14,7 +14,7 @@ const Header = () => {
         </div> */}
      <div className='flex justify-between text-white px-2 pt-3 items-center'>
         <div>
-            <AiOutlineLeft className='text-[#1B86E9] text-[25px] font-light' />
+            <AiOutlineLeft className='text-[#1B86E9] text-[20px] font-light' />
             {/* <FaChevronLeft ' /> */}
         </div>
         <div className='bg-[#999DA9] p-1 rounded-full '>
