@@ -8,7 +8,7 @@ import { TbVideoFilled } from 'react-icons/tb'
 
 const Header = () => {
   return (
-    <div className='bg-[#121212] min-h-[100px] w-full'>
+    <div className='bg-[#121212] min-h-[80px] w-full'>
         {/* <div>
             <CgBattery className='text-[50px] font-light  text-white' />
         </div> */}
@@ -26,7 +26,7 @@ const Header = () => {
         </div>
      </div>
      <div className='flex justify-center text-white'>
-        <p>+1 (232) 543-854</p>
+        <p className='text-[10px] text-center pt-2'> +1 (232) 543-854</p>
      </div>
     </div>
   )
