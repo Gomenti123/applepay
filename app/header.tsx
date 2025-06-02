@@ -17,8 +17,8 @@ const Header = () => {
             <AiOutlineLeft className='text-[#1B86E9] text-[20px] font-light' />
             {/* <FaChevronLeft ' /> */}
         </div>
-        <div className='bg-[#999DA9] p-1 rounded-full '>
-            <MdPerson className='text-[30px]' />
+        <div className='bg-[#999DA9] p-1 flex justify-center items-end w-[45px] h-[45px] rounded-full '>
+            <MdPerson className='text-[43px]' />
         </div>
         <div>
             {/* <TbVideoFilled className='outline-[#1B86E9] text-[40px]' /> */}
