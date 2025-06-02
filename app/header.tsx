@@ -14,19 +14,19 @@ const Header = () => {
         </div> */}
      <div className='flex justify-between text-white px-2 pt-3 items-center'>
         <div>
-            <AiOutlineLeft className='text-[#1B86E9] text-[30px] font-light' />
+            <AiOutlineLeft className='text-[#1B86E9] text-[25px] font-light' />
             {/* <FaChevronLeft ' /> */}
         </div>
         <div className='bg-[#999DA9] p-1 rounded-full '>
-            <MdPerson className='text-[50px]' />
+            <MdPerson className='text-[30px]' />
         </div>
         <div>
             {/* <TbVideoFilled className='outline-[#1B86E9] text-[40px]' /> */}
-            <PiVideoCamera className='text-[#1B86E9] text-[40px]' />
+            <PiVideoCamera className='text-[#1B86E9] text-[20px]' />
         </div>
      </div>
      <div className='flex justify-center text-white'>
-        <p>Number</p>
+        <p>+1 (232) 543-854</p>
      </div>
     </div>
   )

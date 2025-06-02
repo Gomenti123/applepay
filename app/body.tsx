@@ -25,11 +25,14 @@ const Body = () => {
               
         </div>
     
-      <div> 
-        <div className='grid grid-cols-5  p-2'  >
-            <div className='col-span-1 rounded-full w-[50px] h-[50px] bg-[#1F1F21] flex justify-center items-center'>
+      <div className='w-full'>  
+        <div className='flex justify-between w-full p-2'  >
+            <div className='w-[20%]'> 
+                 <div className='col-span-1 rounded-full w-[40px] h-[40px] bg-[#1F1F21] flex justify-center items-center'>
                 <GoPlus className='text-white text-[30px]'  />
             </div>
+            </div>
+           
             <div className=' col-span-4 rounded-full bo border-[3px] border-[#1F1F21] flex justify-between w-full items-center px-5'>
                 <div className='text-neutral-500 font-medium'>iMessage</div>
                 <div className='text-white'>
